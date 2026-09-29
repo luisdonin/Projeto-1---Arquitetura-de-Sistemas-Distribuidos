@@ -3,7 +3,7 @@ José Luis Bastos Donin
 # RA
 a2521687
 # Link do vídeo:
-https://studio.youtube.com/video/y4BXWEFxPww/edit
+[Vídeo](https://www.youtube.com/watch?v=y4BXWEFxPww)
 # Enunciado:
 Desenvolver uma solução de e-commerce Web para comercialização de produtos na Internet.
 Devem ser implementadas Web APIs HTTP de acordo com a figura a seguir. As Web APIs devem simular seus respectivos comportamentos, sem necessidade de implementações reais ou persistência em banco de dados. A integração dos serviços Web deve ser realizada por meio de orquestração
